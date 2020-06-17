@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/estefanofelipa/.local/share/virtualenvs/backend--0Hlarf1/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
